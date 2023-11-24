@@ -1,0 +1,2 @@
+# outParametreler
+odev
